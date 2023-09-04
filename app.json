@@ -13,19 +13,19 @@
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Bot token, Get it from @Botfather",
-            "value": ""
+            "value": "6059862357:AAFNEbN-uCbfwD90dbX78k3qWGQpbs_mfWk"
         },
         "OWNER_ID": {
             "description": "An integer of consisting of your owner ID",
-            "value": "1250450587"
+            "value": "1040325642"
         },
         "APP_ID":{
             "description": "your app id, take it from my.telegram.org",
-            "value": ""
+            "value": "17274454"
         },
         "API_HASH":{
             "description": "your api hash, take it from my.telegram.org",
-            "value": ""
+            "value": "62ccfe695708861a0636bb431f536d17"
         },
         "DATABASE_URL":{
             "description": "Database URL from https://cloud.mongodb.com/",
